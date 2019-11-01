@@ -3,4 +3,4 @@ html-to-pdf
 
 ## Usage
 
-CHROME_PATH=<CHROME_PATH> input=<html file in templates directory> ./process.sh 
+CHROME_PATH=[[CHROME_PATH]] input=[[html template file relative to templates directory> ./process.sh 
